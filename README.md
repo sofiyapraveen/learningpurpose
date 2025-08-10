@@ -1,2 +1,2 @@
 # learningpurpose
-learn Git and Github
+learn Git and Github both
